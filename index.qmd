@@ -1,7 +1,14 @@
 ---
 title: "blog"
+listing:
+  type: table
+  contents: posts
+  categories: true
+  fields: [title, date]
+  feed: true
 ---
 
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
