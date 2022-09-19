@@ -1,19 +1,37 @@
 project:
   type: website
+  preview:
+    host: 0.0.0.0
+    port: 8000
 
 website:
+  site-url: "https://biologized.org"
   title: "blog"
   navbar:
+    background: primary
+    search: true
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+    right:
+      - icon: twitter
+        href: https://twitter.com/biologized
+        aria-label: Biologized Twitter
+      - icon: github
+        href: https://github.com/biologized/blog
+        aria-label: Biologized Github
+      - icon: rss
+        href: index.xml
+        aria-label: RSS feed
+  twitter-card: true
+  repo-url: https://github.com/biologize/blog
+  repo-actions: [issue]
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: flatly
+      dark: darkly
     css: styles.css
     toc: true
-
-
-
