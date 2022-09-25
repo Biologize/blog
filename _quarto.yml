@@ -6,7 +6,7 @@ project:
 
 website:
   site-url: "https://biologized.org"
-  title: "blog"
+  title: "Biologized"
   navbar:
     background: primary
     search: true
@@ -14,6 +14,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: techniques.qmd
+        text: Techniques
     right:
       - icon: twitter
         href: https://twitter.com/biologized
@@ -31,7 +33,7 @@ website:
 format:
   html:
     theme:
-      light: flatly
+      light: sandstone
       dark: darkly
     css: styles.css
     toc: true
