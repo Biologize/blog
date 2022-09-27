@@ -5,7 +5,7 @@ date: "2022-09-23"
 output: html_document
 ---
 
-At Biologized, we have three goals: 
+At Biologized we have three goals: 
 
 1. Make science understandable to anyone 
 
@@ -14,9 +14,7 @@ of science
 
 3. Highlight fascinating, diverse scientists to show that anyone can belong
 
-
-
-#### *Make* complicated modern biomedical *science* *understandable* to anyone
+#### **Make** complicated modern biomedical **science** **understandable** to anyone
 
 Every year, billions of dollars are poured into scientific research in the U.S.
 and across the world. The majority of this money comes from everyday people, not
@@ -31,9 +29,7 @@ value at that. We want to communicate what we know and what is new to science.
 At Biologized, we translate science into something understandable to the
 non-scientist and students. 
 
-
-
-#### Share techniques and perspectives for students to *lower* *the* *barrier* of entry of science
+#### Share techniques and perspectives for students to **lower the barrier** of entry of science
 
 When starting to learn science, two main themes come to the forefront of any
 student: 1) rote memorization, and 2) the scientific method. I don’t believe in
@@ -51,8 +47,7 @@ of the most common techniques used in modern biology. Happy little mistakes
 happen (sometimes not so happy). We will also give our own perspectives on the
 life of a budding biomedical scientist. 
 
-
-#### Highlight fascinating, diverse scientists to show that *everyone* *belongs* *in* *science*
+#### Highlight fascinating, diverse scientists to show that **everyone belongs in science**
 
 Science happens in the context of everyday society. Be that Marie Curie’s 19th
 and 20th century France or Aristotle’s Ancient Greece. There is no perfect
