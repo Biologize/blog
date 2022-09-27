@@ -1,0 +1,56 @@
+---
+title: "DNA"
+author: "RNPC"
+date: "2022-09-25"
+output: html_document
+---
+
+  Like many 6 year olds, I loved dinosaurs. The wild shapes and sizes, the legs and flippers, long necks and tails with spikes were enough to drive any kid into dino-madness. Needless to say, Jurassic park was my favorite movie for years (and still ranks quite highly in my opinion, ethics aside). It was this movie that gave me my first glimpse into DNA: the scene where the main characters are watching some kind of movie, hosted by a DNA molecule. I was fascinated by the idea that DNA was all it took to build a dinosaur. Just one unseeable string of chemicals and Jeff Goldblum is being chased by a T-Rex while riding in the back of a Jeep! What a way to get a kid mad for DNA. Fast forward a few decades and here I am, still wondering about our wild world which is rooted in DNA.
+
+  But what is DNA? What makes it so important? How does it change? And (most important for this scientist’s job security) what do we NOT know about this fantastic molecule? 
+ 
+  DNA is the blueprint of any organism. It is a massive code, about 6 feet long, and is stored perfectly in just about every single cell of the roughly 3 trillion cells in the body. A little math reveals that we have roughly *42 billion miles of DNA* in our bodies. That is enough DNA, in each and every human, to stretch from the sun to Pluto and back to the sun about 5 and a half times (I am a staunch believer that Pluto is a planet, we will never forget). It is inconceivable how much DNA is in each of our bodies; absolutely staggering. This string of DNA, unique to each person, is lovingly called the genome.
+
+Basic chemistry of DNA
+  This wild molecule is made up of just a couple kinds of basic chemicals. Nucleotides -adenine (A), guanine (G), cytosine (C), and thymine (T)- provide the actual code. A sugar/phosphate backbone provides the elegant double helix we all know and love. Each sugar has one base attached and links to the next by a phosphate linkage. The structure is repeated billions of times in a very specific order to provide the information necessary for an entire organism. 
+So how do we read this DNA? Why is it useful? First of all, DNA is a surprisingly stable molecule when it comes to actually doing science in the lab. Some (older) protocols for purifying DNA involve just opening a tube and letting DNA dry out overnight. I cannot emphasize this enough but *WE CANNOT DO THIS WITH MOST OTHER BIOCHEMICALS.* 
+
+The code
+  The code is where the magic happens. Some parts of DNA code for genes. Though the exact definition of a gene varies depending on who you ask (and when), we can think of it as a region of the DNA that produces some functional molecule (proteins or RNA) when read properly and can be inherited from parent to offspring. The scientific community believes there are about 20,000 - 25,000 genes in our genome. This seems a bit low because many genes (maybe as many as 90%) can produce more than one product molecule to serve slightly different functions (a phenomenon known as alternative splicing). 
+
+  For all their importance, genes make up roughly 2% of our total genome. That means less than an inch can a half of that six foot string of DNA in each cell is actually a gene. We still don’t exactly know what the rest of the DNA does. It appears that a good portion is responsible for regulating how genes are expressed. Other parts are still a black box. Much of the genome has segments of ancient viral DNA that has been inserted and duplicated many times. Who knows why those are still there!? Other parts of the DNA may be responsible for giving structure to the nucleus. Some provide a ‘cap’ to the end of DNA for protection (telomeres). The point I want to make is: we have a LOT to learn about our DNA.
+
+
+Epigenetics
+  If you are wondering how in the world 6 feet of DNA can fit in just one cell in the body, you are certainly not alone. I think about this every day. As do folks who are WAY smarter than me, thankfully. It is a heavily studied topic right now with very important implications to many diseases. Most DNA is packed so tightly that it is completely inaccessible. As far as we can tell, this DNA is dormant.This field is called epigenetics. The prefix *epi* has Greek origins and means ‘over’ or ‘on top of’. This refers to the idea that epigenetics is like another layer of genetics on top of the actual code. I can still hardly wrap my mind around the fact that by folding, winding, and compacting DNA, we can fit 6 feet of it in a single nucleus, what a molecule. 
+
+
+The Future
+  *Gene editing* is a heated topic in science and politics right now, filled with moral and ethical dilemmas that need to be discussed. We are gaining the ability to wipe genetically based diseases like sickle cell anemia and cystic fibrosis off the face of the earth. We have the power, as a species, to edit our own DNA in a way we can pass on to our offspring if we want to. We can rewrite the code which has dictated evolution for the entire existence of life on Earth. These are powerful tools and in many ways opens up a can of ethics worms to think about. The more we learn about DNA, the more power we have over our destiny as a species, for better or for worse. 
+  My six year old self was quite keen to support the scientists in Jurassic Park. I would have been thrilled to find out how imminent gene editing was when I was younger. But if the plot to Jurassic Park tells us anything, we do need to take a second and make sure we are doing things right (whatever definition of right we land on). The power given to us by this simple string of letters is immense; as incomprehensible as the length of DNA in our bodies. For now, though, I am just happy learning more about this complex yet elegant molecule. In fact, I am just as excited about DNA now as I was when I first saw the little cartoon playing on Jurassic park. 
+
+
+P.S.
+  There are SO MANY fascinating topics involving DNA - way too many to present in one post and all sorts of ongoing questions to answer!. We have barely scratched the surface of the 42 billion-mile-long iceberg that is our own DNA. So here is a short list of current topics involving DNA:
+
+Histone Code
+
+Methylation
+
+zDNA
+
+Replication and repair
+
+Mutagenesis
+
+Editing DNA 
+
+Circulating tumor DNA
+
+Retrotransposons 
+
+G-quadruplex DNA
+
+Gene regulation
+
+And, of course, CRISPR
