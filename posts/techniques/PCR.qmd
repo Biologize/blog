@@ -1,0 +1,111 @@
+---
+title: "PCR"
+author: "RNPC"
+date: "2022-10-02"
+categories: ["polymerase chain reaction","techniques", "DNA", "RNA"]
+page-layout: "article"
+---
+
+### Intro
+
+If you’ve ever watched a true crime show and someone talked about ‘matching the
+killer’s DNA,’ odds are they used this technique. If said crime show happens to
+be Forensic Files, they almost certainly said the words “cutting edge PCR
+technology” verbatim (a good hook in the 90’s I guess). My wife and I have
+watched them all - some episodes multiple times and it is not a true Forensic
+Files episode if they don’t say those exact words). 
+
+### So what?
+
+So what is this “cutting edge PCR technology” and why do we care? Well, nowadays
+it isn’t necessarily cutting edge but it is one of the most common and
+fundamental things biologists do in the lab. We often use PCR to increase the
+amount (or concentration) of a piece of DNA (see cloning, agarose gel
+electrophoresis, restriction digest, random primer sets, genotyping, the list
+goes on..). The technique occurs in cycles that specifically copy a section of
+DNA hundreds of thousands of times, resulting in millions of segments of that
+specific chunk of DNA. 
+
+### The players
+
+At the center of PCR is DNA replication(read more here) however, in this case,
+we are replicating DNA in a test tube rather than a cell. We can leave out many
+proteins otherwise needed for DNA replication in a cell (such as helicase,
+topoisomerase, gyrase, and even primase). The stars of PCR are the starting
+DNA(known as the template), polymerase, and primers. Other players include
+deoxyribose nucleotide triphosphates (dNTPs, I can honestly say I have never
+said that whole word aloud in my life- these are the bases that make up the
+sequence of DNA), magnesium (which is necessary for polymerase to work), and a
+tris/ potassium chloride buffer (this will maintain a stable pH throughout the
+reaction). 
+
+### The reaction
+
+There are three main steps that occur during a PCR reaction: denaturation,
+annealing, and elongation. Denaturation is just a fancy term for the double
+stranded DNA separating into two single strands. This occurs as high
+temperatures (near boiling point) weaken the hydrogen bonds that connect the two
+strands of DNA causing the two strands to separate spontaneously. No helicase
+necessary. During annealing, we decrease the temperature of the reaction so that
+the pre-designed primers can find a matching segment of DNA and attach using
+hydrogen bonds. Finally, we bump the temperature back up. A polymerase finds a
+primer bound to DNA and begins synthesizing according to the template strand of
+DNA. Thus, from one strand of DNA, we replicate and produce two double helices. 
+
+‘Billy Mays here, but wait there’s more!’ We rinse and repeat the exact same
+process again. From two new strands of DNA, we get four. The next cycle produces
+eight strands of DNA from just that one original template. The more we repeat
+this process, the more DNA is synthesized, increasing exponentially. Million
+copies of a DNA sequence are made after only about 20 cycles. 
+
+#### A primer on… primers
+
+The primers are important here. We usually pick two short sequences for the
+primers on either side of a DNA region of interest. Sometimes we call these
+oligonucleotides, or oligos if you are a cool kid (I can assure you, I am not).
+Each primer is designed to bind to one of the strands of DNA so that when the
+DNA is denatured, each strand still gets primed. The trick is, the primers have
+to be on two sides of a region of interest with the 3’ ends pointing towards
+each other. If they are oriented in any other way, the PCR doesn’t work like it
+should. Having the primers flanking a sequence of interest means that after a
+few cycles, the only DNA that is being replicated is that sequence between the
+primers. The original DNA is still there, but not at significant levels compared
+to the chunk of DNA between the primers.
+  
+Designing primers for PCR can be a bit tricky. A few important considerations
+that go into primer design are length, G/C content, and melting temperature. The
+length of the primer has to be just right. Too long, and the annealing process
+will take too long. Too short, and you may get non-specific binding somewhere
+other than the sequence of interest. A length of ~20 base pairs is usually just
+right for designing your own primers. The G/C content of the primer is also
+important. The bases guanine(G) and cytosine(C) associate using three hydrogen
+bonds where adenosine(A) and tyrosine(T) only have two hydrogen bonds. This
+means that G/C bonds are stronger and therefore dictate the temperature
+necessary to denature the primer from the template DNA. The suggested amount of
+Gs and Cs in the primer is around 40-60%. Finally, melting temperatures of each
+primer, which is strongly related to G/C content, should be somewhere within
+about 5°C of each other.
+
+#### A Taq-y solution
+
+Most proteins are denatured along with DNA as the temperature nears boiling
+point. The polymerase in our cells certainly is. So how do we get around this
+problem? Well, a trip to the hot springs of Yellowstone National Park will
+suffice. In those nearly uninhabitable waters, steaming and boiling away, a
+certain bacteria thrives. Thermus aquaticus happily grows and divides at
+temperatures up to 80°C. This includes a specially adapted polymerase that
+allows the organism to create new strands of DNA even at high temperatures. We
+steal this polymerase (called Taq-polymerase after the bacteria’s latin name)
+for PCR because it can withstand the hot denaturing step without itself being
+denatured. 
+
+### Outro
+
+Although considered to be a simple technique in the lab today (i.e. just throw
+some ingredients in a tube and change the temperature a few times and forget
+about it), it was revolutionary when Kary Mullis developed the technique in the
+80’s. So revolutionary that he was awarded the Nobel Prize in Chemistry for his
+work in 1993, right around the time Forensic Files first aired. Thank you PCR.
+You have brought boundless hours of intrigue and suspense into my life. You have
+put many the criminal behind bars (and saved some who were wrongfully committed)
+and many the student behind a lab bench. 
