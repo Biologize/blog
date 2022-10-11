@@ -1,0 +1,12 @@
+---
+title: "Biologized blog"
+listing:
+  type: table
+  contents: posts/techniques
+  categories: true
+  sort: "date desc"
+  fields: [title, date]
+  feed: true
+---
+
+## Techniques
